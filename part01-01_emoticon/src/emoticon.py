@@ -1,2 +1,1 @@
-# Write your solution here
-print(":-)")
+print(f"Amount of tax: {100 + ((6000 - 5000) * 0.08)} euros")
