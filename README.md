@@ -1,4 +1,4 @@
-KINDLY IGNORE THIS REPOSITORY 
+KINDLY IGNORE THIS REPOSITORY IF LOOKING FOR PROJECTS 
 
 
 MOOC FI programming 25 Model solutions.
@@ -7,4 +7,4 @@ This is a repository wherein I am putting mooc fi python solutions for testing h
 
 
 
-KINDLY IGNORE THIS REPOSITORY 
+KINDLY IGNORE THIS REPOSITORY IF LOOKING FOR PROJECTS 
