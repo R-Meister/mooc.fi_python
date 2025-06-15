@@ -1,10 +1,50 @@
-KINDLY IGNORE THIS REPOSITORY IF LOOKING FOR PROJECTS 
+# MOOC.fi Programming 25 - University of Helsinki
 
+This repository contains solutions to various programming exercises from the MOOC.fi Programming 25 course offered by the University of Helsinki. The course can be found at [https://programming-25.mooc.fi/](https://programming-25.mooc.fi/).
 
-MOOC FI programming 25 Model solutions.
+## Structure
 
-This is a repository wherein I am putting mooc fi python solutions for testing how git works.
+- Each `partXX-YY_description/` directory contains a specific exercise.
+- Exercises cover a wide range of topics, including:
+  - Basic input/output
+  - Arithmetic operations
+  - String manipulation
+  - Control structures (loops, conditionals)
+  - Functions and modular code
+  - Working with numbers and strings
 
+## Getting Started
 
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
+   ```
 
-KINDLY IGNORE THIS REPOSITORY IF LOOKING FOR PROJECTS 
+2. **Navigate to an exercise:**
+   ```bash
+   cd part03-01_print_numbers
+   ```
+
+3. **Run the Python file:**
+   ```bash
+   python3 <exercise_file>.py
+   ```
+
+## Requirements
+
+- Python 3.x
+
+No additional libraries are required; all exercises use standard Python.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests if you want to add solutions or improve existing ones.
+
+## License
+
+This repository is for educational purposes.
+
+---
+
+Happy coding!
