@@ -37,14 +37,3 @@ This repository contains solutions to various programming exercises from the MOO
 
 No additional libraries are required; all exercises use standard Python.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests if you want to add solutions or improve existing ones.
-
-## License
-
-This repository is for educational purposes.
-
----
-
-Happy coding!
